@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488608582 source:d:\glfwworkstation\projects\magic\main.c
+	<GLFW/glfw3.h>
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+
